@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KelvenLiew
 - 👀 I’m interested in ...programming 
-- 🌱 I’m currently learning ...JAVA programming
+- 🌱 I’m currently learning ...Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
